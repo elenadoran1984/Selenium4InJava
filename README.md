@@ -13,3 +13,6 @@ IntelliJ
 Selenium Java 4+
 TestNG
 WebDriverManager
+
+Preconditions:
+Create authentication on https://www.ivet.ro/ro/login.html for 1 user
