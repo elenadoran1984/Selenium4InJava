@@ -15,7 +15,9 @@ Chrome DevTools Protocol
 
 
 Setup Environment:
+
 Java SE 17+ 
+
 IntelliJ
 
 Selenium Java 4+
@@ -23,6 +25,7 @@ Selenium Java 4+
 TestNG
 
 WebDriverManager
+
 
 Preconditions:
 
